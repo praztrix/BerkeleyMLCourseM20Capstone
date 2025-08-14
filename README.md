@@ -224,7 +224,7 @@ Files:
 
 - [capstone_utils.py](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/capstone_utils.py) - Utility functions
 - [custom_cinic10_data.zip](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/custom_cinic10_data.zip) - Contains a subset of CINIC10 files for the performanve evaluation of models.
-- [EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/bolb/main/EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb) - Notebook for EDA
+- [EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb) - Notebook for EDA
 - [CIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/CIFAR-10MultiModelTransferLearningEvaluation.ipynb) - Notebook for model evaluation and performance analysis.
 
 **All my Notebooks were run on Google Colab with Colab Pro subscription. The CPU type was A-100.**
