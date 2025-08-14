@@ -222,10 +222,10 @@ Repository:
 
 Files:
 
-- [capstone_utils.py](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/capstone_utils.py) - Utility functions
-- [custom_cinic10_data.zip](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/custom_cinic10_data.zip) - Contains a subset of CINIC10 files for the performanve evaluation of models.
-- [EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb) - Notebook for EDA
-- [CIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/CIFAR-10MultiModelTransferLearningEvaluation.ipynb) - Notebook for model evaluation and performance analysis.
+- [capstone_utils.py](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/capstone_utils.py) - Utility functions
+- [custom_cinic10_data.zip](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/custom_cinic10_data.zip) - Contains a subset of CINIC10 files for the performanve evaluation of models.
+- [EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/bolb/main/EDAForCIFAR-10MultiModelTransferLearningEvaluation.ipynb) - Notebook for EDA
+- [CIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/CIFAR-10MultiModelTransferLearningEvaluation.ipynb) - Notebook for model evaluation and performance analysis.
 
 **All my Notebooks were run on Google Colab with Colab Pro subscription. The CPU type was A-100.**
 Even with an A-100 CPU type on Google Colab, the total training time for 5 models took about 27 mins. The EDA also took some time as the pixel intensity analysis is compute intensive.
