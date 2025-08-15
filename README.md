@@ -184,11 +184,11 @@ After training, the models undergo a comprehensive evaluation phase.
 
 ### Results
 
-![Model Performance](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/images/CIFAR10MultiModelPerformancePlots.png "Model Performance")
+![Model Performance](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/images/CIFAR10MultiModelPerformancePlots.png "Model Performance")
 
 #### Performance Analysis of Models
 
-- Refer to [CIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/CIFAR-10MultiModelTransferLearningEvaluation.ipynb) for performance analysis of models. 
+- Refer to [CIFAR-10MultiModelTransferLearningEvaluation.ipynb](https://github.com/praztrix/BerkeleyMLCourseM20Capstone/blob/main/CIFAR-10MultiModelTransferLearningEvaluation.ipynb) for performance analysis of models. 
 
 #### Overall Analysis
 
