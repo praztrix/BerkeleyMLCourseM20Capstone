@@ -213,6 +213,7 @@ After training, the models undergo a comprehensive evaluation phase.
 - Run more trials for Keras search.
 - Train the best-fit model for more epochs (30+). Ten epochs were chosen due to compute considerations. Early Stopping could be used to make efficient use of comoute resources.
 - Train with a larger subset of data from the CINIC10 dataset and use CIFAR10 for performance validation. This is a function of compute and memory availability.
+- Fix the code to use validation_split during training. I couldn't get tensorflow.data.Dataset used for storing the training data to work with validation_split.
 
 ### Outline of project
 
